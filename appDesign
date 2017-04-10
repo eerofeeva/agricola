@@ -1,0 +1,31 @@
+
+Web UI
+  FarmPage
+   Turn #
+   BoardScreen
+   FarmScreen
+
+(GameEngine)
+
+Board
+  spaces
+  resources
+ 
+
+
+Farm
+  Resources
+    Animals
+    Veggies
+    Materials
+    
+  Board
+    Buildings
+    
+TurnEngine
+  FarmEvents
+  BoardEvents
+  FarmEvaluation
+  
+
+
