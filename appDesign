@@ -1,1 +1,31 @@
-test
+1. board state:
+
+2. turn engine:
+  
+  2.1 board state update
+  
+  2.2 player actions activated
+  
+  2.3 evaluate farm
+  
+  2.4 evaluate board
+
+3. game engine:
+  
+  3.1 player actions
+  
+4. UI:
+  4.1 Board Object Properties
+  4.2 Farm Object Properties
+    4.2.1 Farm Evaluation per category and whole
+  4.3 List of Actions
+  
+  
+5. Reqs: 
+  5.1 display board state
+  5.2 display farm state
+  5.3 list of all actions available
+  5.3 display 3 steps of most optimal strategy by points
+  5.4 user can select one action from List of Actions and activate the game engine
+      5.4.1 extra button activate engine
+      5.4.2 if one action is selected, no more action input
